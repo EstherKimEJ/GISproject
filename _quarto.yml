@@ -5,17 +5,17 @@ website:
   title: "GISproject"
   navbar:
     left:
-      - href: intro.html
+      - href: intro.qmd
         text: Introduction
-      - href: Method.html
+      - href: Method.qmd
         text: Methodology
       - href: Analysis.html
         text: Analysis
-      - href: finding.html
+      - href: finding.qmd
         text: Results & Discussion
-      - href: index.html
+      - href: index.qmd
         text: Home
-      - href: about.html
+      - href: about.qmd
         text: About
 
 format:
