@@ -5,5 +5,33 @@
     "title": "GIS project",
     "section": "",
     "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n{GROUP 1 pretty gals}"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "intro.html#overview",
+    "href": "intro.html#overview",
+    "title": "Introduction",
+    "section": "Overview",
+    "text": "Overview\nThis is"
+  },
+  {
+    "objectID": "intro.html#project-tasks",
+    "href": "intro.html#project-tasks",
+    "title": "Introduction",
+    "section": "Project Tasks",
+    "text": "Project Tasks\nThe project tasks are as follows:\nXXXXXXXXXXX"
+  },
+  {
+    "objectID": "intro.html#my-project-task",
+    "href": "intro.html#my-project-task",
+    "title": "Introduction",
+    "section": "My Project Task",
+    "text": "My Project Task\n\nDo 1\nDo 2\n\nThe Data.. to compile the necessary data to derive new data sets\nThe following data sets will be used:\n\nss\nss"
   }
 ]
