@@ -11,7 +11,7 @@ website:
         text: Introduction
       - href: Method.qmd
         text: Methodology
-      - href: Analysis.html
+      - href: Analysis.qmd
         text: Analysis
       - href: finding.qmd
         text: Results & Discussion
