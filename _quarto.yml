@@ -5,6 +5,8 @@ website:
   title: "GISproject"
   navbar:
     left:
+      - href: index.qmd
+        text: Home
       - href: intro.qmd
         text: Introduction
       - href: Method.qmd
@@ -13,8 +15,6 @@ website:
         text: Analysis
       - href: finding.qmd
         text: Results & Discussion
-      - href: index.qmd
-        text: Home
       - href: about.qmd
         text: About
 

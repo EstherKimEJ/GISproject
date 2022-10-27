@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "GIS project",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n{GROUP 1 pretty gals}"
+    "text": "Group Members:\n\nSherry Ng\nHow Xinyee\nEsther Kim EJ\n\nLecturer:\nKAM Tin Seong: Full-time Faculty. Associate Professor of Information Systems (Practice)."
   },
   {
     "objectID": "about.html",
@@ -18,7 +18,7 @@
     "href": "intro.html#overview",
     "title": "Introduction",
     "section": "Overview",
-    "text": "Overview\nThis is"
+    "text": "Overview\nThis is BIIIG PROJECT"
   },
   {
     "objectID": "intro.html#project-tasks",
@@ -33,5 +33,26 @@
     "title": "Introduction",
     "section": "My Project Task",
     "text": "My Project Task\n\nDo 1\nDo 2\n\nThe Data.. to compile the necessary data to derive new data sets\nThe following data sets will be used:\n\nss\nss"
+  },
+  {
+    "objectID": "Analysis.html",
+    "href": "Analysis.html",
+    "title": "GISproject",
+    "section": "",
+    "text": "Analysis"
+  },
+  {
+    "objectID": "finding.html",
+    "href": "finding.html",
+    "title": "GISproject",
+    "section": "",
+    "text": "finding"
+  },
+  {
+    "objectID": "Method.html",
+    "href": "Method.html",
+    "title": "GISproject",
+    "section": "",
+    "text": "Methods"
   }
 ]

@@ -4,4 +4,16 @@ title: "GIS project"
 
 Welcome to our project page.
 
-To learn more about Quarto websites visit
+**Group Members:**
+
+-   Sherry Ng
+
+-   How Xinyee
+
+-   Esther Kim EJ
+
+**Lecturer:**
+
+**KAM Tin Seong**: Full-time Faculty. Associate Professor of Information Systems (Practice).
+
+![](https://0.academia-photos.com/1705173/588761/730857/s200_tin_seong.kam.jpg)
