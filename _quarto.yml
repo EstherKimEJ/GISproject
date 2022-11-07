@@ -7,6 +7,8 @@ website:
     left:
       - href: index.html
         text: Home
+      - href: about.html
+        text: About
       - href: intro.html
         text: Introduction
       - href: Method.html
@@ -15,8 +17,7 @@ website:
         text: Analysis
       - href: finding.html
         text: Results & Discussion
-      - href: about.html
-        text: About
+      
 
 format:
   html:
